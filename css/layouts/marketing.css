@@ -234,6 +234,13 @@ a.pure-button-primary {
     color: white;
 }
 
+
+
+.image-container img {
+    display: block;
+    margin: 0 auto;
+}
+
 /* This is the class used for the content sub-headers (<h3>) */
 .content-subhead {
     color: #1f8dd6;
