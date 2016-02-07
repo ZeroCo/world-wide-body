@@ -236,6 +236,13 @@ a.pure-button-primary {
 
 
 
+
+.video-container iframe {
+    display: block;
+    margin: 0 auto 20px auto;
+
+}
+
 .image-container img {
     display: block;
     margin: 0 auto;
